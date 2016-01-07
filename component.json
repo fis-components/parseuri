@@ -1,0 +1,10 @@
+{
+    "name": "parseuri",
+    "description": "Method that parses a URI and returns an array of its components",
+    "repos": "https://github.com/get/parseuri.git",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "main": "index.js",
+    "version": "0.0.4"
+}
